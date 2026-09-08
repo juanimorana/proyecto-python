@@ -1,4 +1,4 @@
-# 🍽️ TP Grupal (FastAPI)
+# TP Grupal (FastAPI)
 
 Trabajo práctico grupal desarrollado para la materia Seminario de Lenguajes.
 
