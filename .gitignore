@@ -1,0 +1,11 @@
+# Archivos de datos y reportes generados por el script
+*.csv
+*.pdf
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+env/
